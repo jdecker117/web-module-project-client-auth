@@ -10,3 +10,13 @@ html, body, #root {
 label {
     display:block;
 }
+
+.App {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-bottom: 36px;
+}
+
+.links {
+  padding: 10px
+}
